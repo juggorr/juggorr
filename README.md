@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-
+<!--
+컴퓨터 세탁소
+-->
+![cl22](https://user-images.githubusercontent.com/109324463/206808467-c3bfea68-6cdd-493f-8fe8-794b998fcebc.jpg)
 
 <!--
 **juggorr/juggorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
