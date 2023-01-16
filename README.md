@@ -5,12 +5,12 @@
   <img src="https://user-images.githubusercontent.com/109324463/206808467-c3bfea68-6cdd-493f-8fe8-794b998fcebc.jpg">
   <!--![cl22](https://user-images.githubusercontent.com/109324463/206808467-c3bfea68-6cdd-493f-8fe8-794b998fcebc.jpg)-->
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juggorr&show_icons=true&theme=radical)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=juggorr)](https://solved.ac/juggorr)
+  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juggorr&show_icons=true&theme=radical)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=juggorr)](https://solved.ac/juggorr)-->
 </div>
 
-<div align=center><h2>STACKS 💵</h2></div>
-
+<!--<div align=center><h2>STACKS 💵</h2></div>-->
+<!--
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?&logo=Django&logoColor=white">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?&logo=vue.js&logoColor=white">
 </div>
-  
+-->
     
 <!--
 **juggorr/juggorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
