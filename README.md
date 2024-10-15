@@ -8,6 +8,9 @@
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juggorr&show_icons=true&theme=radical)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=juggorr)](https://solved.ac/juggorr)-->
 </div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 
 <!--<div align=center><h2>STACKS 💵</h2></div>-->
 <!--
