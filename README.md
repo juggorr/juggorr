@@ -9,7 +9,7 @@
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=juggorr)](https://solved.ac/juggorr)-->
 </div>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{juggorr}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/{juggorr}"/>
 </a>
 
 <!--<div align=center><h2>STACKS 💵</h2></div>-->
